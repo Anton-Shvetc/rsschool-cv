@@ -1,2 +1,1 @@
-https://anton-shvetc.github.io/rsschool-cv/cv.md
-
+https://anton-shvetc.github.io/rsschool-cv/cv
